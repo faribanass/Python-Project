@@ -87,7 +87,5 @@ python main.py
 * Online leaderboard integration
 * Fullscreen mode and joystick support
 * AI Mode for the snake (automatic gameplay)
-
-
 Do you want me to do that next?
 ```
